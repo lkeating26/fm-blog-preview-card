@@ -57,6 +57,6 @@ I'd like to learn more about custom properties and responsiveness.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lkeating26)
+- Frontend Mentor - [@lkeating26](https://www.frontendmentor.io/profile/lkeating26)
 
 *
