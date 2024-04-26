@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-solution-aR7ll4QSeg)
+- Live Site URL: [Live Site](https://lkeating26.github.io/fm-blog-preview-card/)
 
 ## My process
 
@@ -58,5 +58,3 @@ I'd like to learn more about custom properties and responsiveness.
 ## Author
 
 - Frontend Mentor - [@lkeating26](https://www.frontendmentor.io/profile/lkeating26)
-
-*
